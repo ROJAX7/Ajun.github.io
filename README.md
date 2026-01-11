@@ -1,3 +1,4 @@
+
 <style>
 body { 
   margin: 0;
@@ -33,7 +34,7 @@ h1 {
 }
 
 .card h2 {
-  color: #ff4d6d;
+  color: lightblue;
 }
 
 .card p{
