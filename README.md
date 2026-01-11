@@ -5,9 +5,6 @@
     <head>
         <title>My Hobies</title>
     </head>
-    <body>
-        
-    </body>
 </html>
 <!DOCTYPE html>
 <html lang="en">
