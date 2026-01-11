@@ -1,10 +1,6 @@
 
 [Atiks.html](https://github.com/user-attachments/files/24553514/Atiks.html)
 <html>
-  <style>{
-    button: background
-  }
-  </style>
     <head>
     <title>AtiksJosh</title>
 </head>
