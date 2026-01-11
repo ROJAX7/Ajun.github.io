@@ -1,4 +1,112 @@
+<style>
+body { 
+  margin: 0;
+  padding: 0;  
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(135deg, #ffd6e8,#e0f7fa);        
+}
 
+.container {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+  padding: 40px 0;  
+}
+
+h1 {
+  color: #5a189a;
+  margin-bottom: 30px;
+}
+
+.card {
+  background: rgba(225, 225, 225, 0.85);
+  margin: 20px auto;  
+  padding: 20px; 
+  border-radius: 20px;
+  width: 70%;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1); 
+  transition: transform 0.3s ease;
+}
+
+.card:hover {
+  transform: scale(1.05);  
+}
+
+.card h2 {
+  color: #ff4d6d;
+}
+
+.card p{
+  color: #333;
+  font-size: 16px;  
+}
+
+body {
+  background: linear-gradient(135deg, #d0f0fd, #d8f8e1);  
+}
+body {
+  background: linear-gradient(to right, #cceeff, #ccffdd);  
+}
+body {
+  background: linear-gradient(120deg, #e3fdfd, #cbf1c1);  
+}
+body {
+background: radial-gradient(circle at top left, #d9faff, #dff7e7);
+}
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(135deg, #e0f7ff, #d4fce3);  
+}
+</style>
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My Hobies</title>
+    </head>
+    <body>
+        
+    </body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>My Hobbies</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        
+ <div class="container">
+            <h1>✨My Hobbies✨</h1>
+
+ <div class="card">
+                <h2>🎨Painting</h2>
+                <p>I love painting because it helps
+                     me express my emotions and creativity
+                    through colors</p>
+            </div>
+        <div class="card">
+                <h2>🏀Playing Basketball</h2>
+                <p>Basketball keeps me active, strong and 
+                    teaches me teamwok and confidence.</p>
+            </div>
+
+<div class="card">
+                <h2>📚Reading</h2>
+                <p>reading takes me into different worlds and
+                     helps learn new ideas and perspectives.</p>
+            </div>
+        <div class="card">
+                <h2>✍️Writing</h2>
+                <p>Writing is my passion. I enjoy creating stories 
+                    and expressing deeps throuh words.</p>
+            </div>        
+        </div>
+
+</body>
+</html>
 
 <!DOCTYPE html>
 <html>
