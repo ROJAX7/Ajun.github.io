@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 <html lang="en">
     <head>
         <meta charset="UTF-8">
@@ -33,7 +32,7 @@
                 <p>Writing is my passion. I enjoy creating stories 
                     and expressing deeps throuh words.</p>
             </div>        
-        </div>
+        
 
    </body>
 </html>
