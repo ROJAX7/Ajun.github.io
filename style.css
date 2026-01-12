@@ -13,7 +13,7 @@ body {
   padding: 40px 0;  
 }
 
-h1 {
+.h1 {
   color: #5a189a;
   margin-bottom: 30px;
 }
@@ -34,4 +34,5 @@ h1 {
 
 .card h2 {
   color: #ff4d6d;
+
 }
