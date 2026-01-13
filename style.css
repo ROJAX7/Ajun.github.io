@@ -13,7 +13,7 @@ body {
   padding: 40px 0;  
 }
 
-.h1 {
+h1 {
   color: #5a189a;
   margin-bottom: 30px;
 }
@@ -23,7 +23,7 @@ body {
   margin: 20px auto;  
   padding: 20px; 
   border-radius: 20px;
-  width: 70%;
+  width: 50%;
   box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1); 
   transition: transform 0.3s ease;
 }
@@ -34,5 +34,48 @@ body {
 
 .card h2 {
   color: #ff4d6d;
+}
 
+.card p{
+  color: #333;
+  font-size: 16px;  
+}
+
+body {
+  background: linear-gradient(135deg, #d0f0fd, #d8f8e1);  
+}
+body {
+  background: linear-gradient(to right, #cceeff, #ccffdd);  
+}
+body {
+  background: linear-gradient(120deg, #e3fdfd, #cbf1c1);  
+}
+body {
+background: radial-gradient(circle at top left, #d9faff, #dff7e7);
+}
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(135deg, #e0f7ff, #d4fce3);  
+}
+button:hover{
+  transform:scale(1.05) ;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1); 
+  transition: transform 0.3s ease;
+}
+input:hover{
+  transform:scale(1.05) ;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1); 
+  transition: transform 0.3s ease;
+}
+img:hover{
+  transform:scale(1.05) ;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1); 
+  transition: transform 0.3s ease;
+}
+form:hover{
+  transform:scale(1.05) ;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1); 
+  transition: transform 0.3s ease;
+}
 }
